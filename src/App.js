@@ -18,7 +18,7 @@ function App() {
   
     const response = await api.post('repositories', {
       title: `Novo repositório - ${Date.now()}`,
-      url: 'https://api.github.com/airtonsena/airtonsena',
+      url: 'https://github.com/airtonsena10',
       tech:'nodejs , reactjs'
       
     });
