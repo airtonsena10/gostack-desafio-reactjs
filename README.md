@@ -10,7 +10,7 @@
 
 ## Sobre 🤓
 
-Neste desafio, foi criado um aplicativo para praticar o que aprendi no ReactJS. O aplicativo tem por objetivo armazenar repositórios, o que permitirá listar, atualizar e deletar repositórios
+Neste desafio, foi criado um aplicativo para praticar o que aprendi no ReactJS. O aplicativo tem por objetivo armazenar repositórios, o que permitirá listar, adicionar e deletar repositórios
 
 
 ## 📫 Contact
